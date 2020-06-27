@@ -1,0 +1,22 @@
+Package: com.haoict.teamsplus
+Name: Teams Plus
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.3.0), firmware (>= 10)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Free & Open Source Tweak for Teams App
+ Free & Open Source Tweak for Teams App
+ Change log: https://github.com/haoict/teams-plus/releases
+ . 
+ Features:
+ - Bypass Jailbreak Detection
+ - Support iOS 10-13 & latest Teams app version
+ . 
+ I collect uuid for better support and statistic purpose
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Maintainer: Hao Nguyen
+Author: Hao Nguyen
+Section: Tweaks
